@@ -1,0 +1,83 @@
+[
+  {
+    "link": "https://spb.hh.ru/vacancy/80002041?from=vacancy_search_list&query=python",
+    "fields": {
+      "company": "CATAPULTO.RU",
+      "city": "Москва, Павелецкая и еще 1 ",
+      "salary": "от 200 000 до 300 000 руб. на руки",
+      "tittle": "Старший программист-разработчик (Python/Django) / Senior back-end developer"
+    }
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/81246630?from=vacancy_search_list&query=python",
+    "fields": {
+      "company": "ООО ТН Цифровая Логистика",
+      "city": "Москва",
+      "salary": "до 350 000 руб. до вычета налогов",
+      "tittle": "Ведущий разработчик Python (Senior Python Developer)"
+    }
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/79976368?from=vacancy_search_list&query=python",
+    "fields": {
+      "company": "Softline",
+      "city": "Москва",
+      "salary": "до 200 000 руб. на руки",
+      "tittle": "Разработчик Python"
+    }
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/79248533?from=vacancy_search_list&query=python",
+    "fields": {
+      "company": "Бизнес-Азимут",
+      "city": "Москва",
+      "salary": "от 300 000 до 350 000 руб. на руки",
+      "tittle": "Python разработчик (Middle+)"
+    }
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/80953982?from=vacancy_search_list&query=python",
+    "fields": {
+      "company": "Юг Руси",
+      "city": "Москва",
+      "salary": "от 90 000 до 150 000 руб. на руки",
+      "tittle": "Jun+ Python Разработчик"
+    }
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/81490135?from=vacancy_search_list&query=python",
+    "fields": {
+      "company": "ООО Фабрика Решений",
+      "city": "Москва",
+      "salary": "от 150 000 до 250 000 руб. на руки",
+      "tittle": "Разработчик-Python (Django, DRF)"
+    }
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/80881200?from=vacancy_search_list&query=python",
+    "fields": {
+      "company": "Digital Reputation",
+      "city": "Москва",
+      "salary": "от 120 000 до 180 000 руб. на руки",
+      "tittle": "Python-разработчик"
+    }
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/81442089?from=vacancy_search_list&query=python",
+    "fields": {
+      "company": "B.ART",
+      "city": "Москва",
+      "salary": "от 150 000 до 200 000 руб. на руки",
+      "tittle": "Python Developer"
+    }
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/81407418?from=vacancy_search_list&query=python",
+    "fields": {
+      "company": "ООО Телеформ ИС",
+      "city": "Москва",
+      "salary": "от 120 000 до 160 000 руб. на руки",
+      "tittle": "Python Developer"
+    }
+  }
+]
